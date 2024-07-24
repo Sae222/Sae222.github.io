@@ -10,4 +10,4 @@ title: "ソフトウェア工学 2024"
 
 git/github演習
 
-[git 0724](/webdocs/git0724)
+[git memo](/webdocs/git0724)
