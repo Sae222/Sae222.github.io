@@ -8,6 +8,6 @@ title: "ソフトウェア工学 2024"
 
 # ソフトウェア工学 2024
 
-git/github演習
+> home
 
-[git memo](/webdocs/git0724)
+[講義 memo](/webdocs/git0724)
